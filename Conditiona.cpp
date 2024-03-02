@@ -17,6 +17,9 @@ int main()
     {
         cout << "A is greater than B" << endl;
     }
+    if (a == b){
+        cout << "This works somehow";
+    }
 
     return 0;
 }
